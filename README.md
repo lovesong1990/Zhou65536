@@ -5,8 +5,9 @@ coo!
 - [x] woqu
 
 ```php
-<?php 
   echo "hello word!";
+```　
 
-?>
+```js
+  alert('aaa');
 ```
