@@ -8,6 +8,12 @@ coo!
   echo "hello word!";
 ```　
 
+
 ```js
   alert('aaa');
+```
+
+
+```javascript
+  alert('aaaaaa');
 ```
